@@ -2,10 +2,10 @@
     "packages": [
         {
             "name": "RECore",
-            "websiteURL": "",
+            "websiteURL": "https://omniment.co.jp",
             "maintainer": "OMNIMENT Inc.",
             "email": "",
-            "help": "",
+            "help": {"online": "https://omniment.co.jp"},
             "platforms": [
                 {
                     "name": "RECore STM32 Cores",
@@ -20,24 +20,24 @@
                         {
                             "name": "RECore"
                         }
-                  ],
+                    ],
                     "toolsDependencies": [
                         {
-                            "packager": "RECore",
+                            "packager": "STM32",
                             "name": "xpack-arm-none-eabi-gcc",
                             "version": "9.2.1-1.1"
-                    },
+                        },
                         {
-                            "packager": "RECore",
+                            "packager": "STM32",
                             "name": "CMSIS",
                             "version": "5.5.1"
-                    },
+                        },
                         {
                             "packager": "RECore",
                             "name": "RECore STM32 Tools",
                             "version": "0.0.1"
-                    }
-                  ]
+                        }
+                    ]
                 }
             ],
             "tools": [
@@ -131,30 +131,30 @@
                             "archiveFileName": "RECore-arduino_tinydfu_tools-0.0.1.tar.gz",
                             "checksum": "SHA-256:834954F6C5915924F8B4240BBB43D27D764202C5847EC8B29379AD79A46E352A",
                             "size": "7611744"
-            },
+                        },
                         {
                             "host": "x86_64-apple-darwin",
                             "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.4.0/STM32Tools-1.4.0-mac.tar.bz2",
                             "archiveFileName": "STM32Tools-1.4.0-mac.tar.bz2",
                             "checksum": "SHA-256:861ab52fbfd6aa02e9efbd4f568bc536c6669975675660417b4c2e719fe15304",
                             "size": "757807"
-            },
+                        },
                         {
                             "host": "x86_64-pc-linux-gnu",
                             "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.4.0/STM32Tools-1.4.0-linux.tar.bz2",
                             "archiveFileName": "STM32Tools-1.4.0-linux.tar.bz2",
                             "checksum": "SHA-256:03ce112090a39ea5176b4401ec06208b8d8cccb4eb705c8f03c5aa74f3c99918",
                             "size": "755585"
-            },
+                        },
                         {
                             "host": "i686-pc-linux-gnu",
                             "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.4.0/STM32Tools-1.4.0-linux.tar.bz2",
                             "archiveFileName": "STM32Tools-1.4.0-linux.tar.bz2",
                             "checksum": "SHA-256:03ce112090a39ea5176b4401ec06208b8d8cccb4eb705c8f03c5aa74f3c99918",
                             "size": "755585"
-            }
-          ]
-        }
+                        }
+                    ]
+                }
             ]
         }
     ]
