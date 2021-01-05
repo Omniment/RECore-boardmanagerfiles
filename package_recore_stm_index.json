@@ -11,7 +11,7 @@
                     "name": "RECore STM32 Cores",
                     "architecture": "stm32",
                     "version": "0.0.1",
-                    "category": "",
+                    "category": "Contributed",
                     "url": "https://github.com/Omniment/RECore-Arduino_Core_STM32/archive/v0.0.1.tar.gz",
                     "archiveFileName": "RECore-Arduino_Core_STM32-0.0.1.tar.gz",
                     "checksum": "SHA-256:0B97AB7DD17609EFD12AED99F6CCC3EC1000B38F200D76BB02A8E6D7B21728C6",
@@ -38,7 +38,7 @@
                             "version": "0.0.1"
                     }
                   ]
-                  }
+                }
             ],
             "tools": [
                 {
