@@ -55,7 +55,7 @@
                         {
                             "host": "x86_64-apple-darwin",
                             "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v10.2.1-1.1/xpack-arm-none-eabi-gcc-10.2.1-1.1-darwin-x64.tar.gz",
-                            "archiveFileName": "xpack-arm-none-eabi-gcc-9.2.1-1.1-darwin-x64.tar.gz",
+                            "archiveFileName": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v10.2.1-1.1/xpack-arm-none-eabi-gcc-10.2.1-1.1-linux-ia32.tar.gz",
                             "checksum": "SHA-256:061615d3e35d026cfa3ef8999f2bdaef2181b56e61029f58c8e0f1054bba046b",
                             "size": "183654470"
                         },
