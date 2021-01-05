@@ -35,7 +35,7 @@
                         {
                             "packager": "RECore",
                             "name": "RECore STM32 Tools",
-                            "version": "1.4.0"
+                            "version": "0.0.1"
                     }
                   ]
                   }
