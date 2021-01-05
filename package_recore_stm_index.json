@@ -62,7 +62,7 @@
                         {
                             "host": "x86_64-pc-linux-gnu",
                             "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v9.2.1-1.1/xpack-arm-none-eabi-gcc-10.2.1-1.1-linux-x64.tar.gz",
-                            "archiveFileName": "xpack-arm-none-eabi-gcc-10.2.1-1.1-linux-x64.tar.gz",
+                            "archiveFileName": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v10.2.1-1.1/xpack-arm-none-eabi-gcc-10.2.1-1.1-linux-x64.tar.gz",
                             "checksum": "SHA-256:840e90b527d30143b8d8e5eb894218858ed14226bdc8664686f0848592b6e474",
                             "size": "188707051"
                         },
