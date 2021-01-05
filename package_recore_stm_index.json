@@ -23,12 +23,12 @@
                     ],
                     "toolsDependencies": [
                         {
-                            "packager": "STM32",
+                            "packager": "RECore",
                             "name": "xpack-arm-none-eabi-gcc",
                             "version": "9.2.1-1.1"
                         },
                         {
-                            "packager": "STM32",
+                            "packager": "RECore",
                             "name": "CMSIS",
                             "version": "5.5.1"
                         },
