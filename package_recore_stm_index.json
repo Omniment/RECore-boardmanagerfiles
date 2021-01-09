@@ -127,7 +127,7 @@
                     "systems": [
                         {
                             "host": "i686-mingw32",
-                            "url": "https://github.com/Omniment/RECore-arduino_tinydfu_tools/archive/0.0.1.tar.gz",
+                            "url": "https://github.com/Omniment/RECore-arduino_tinydfu_tools/archive/v0.0.1.tar.gz",
                             "archiveFileName": "RECore-arduino_tinydfu_tools-0.0.1.tar.gz",
                             "checksum": "SHA-256:B92F7381DB3B42969E4A50FC470E471907DB3BFE7BD001A8E4AD0DA37ADAE98C",
                             "size": "1105268"
