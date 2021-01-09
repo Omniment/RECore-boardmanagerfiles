@@ -8,7 +8,7 @@
             "help": {"online": "https://omniment.co.jp"},
             "platforms": [
                 {
-                    "name": "RECore STM32 Cores",
+                    "name": "RECore",
                     "architecture": "stm32",
                     "version": "0.0.1",
                     "category": "Contributed",
