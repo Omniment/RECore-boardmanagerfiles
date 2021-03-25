@@ -14,8 +14,8 @@
                     "category": "Contributed",
                     "url": "https://github.com/Omniment/RECore-Arduino_Core_STM32/archive/v0.0.4.tar.gz",
                     "archiveFileName": "RECore-Arduino_Core_STM32-0.0.4.tar.gz",
-                    "checksum": "SHA-256:72F49B5097A902B0E691F6AAC7EB60A06F254B64A1AEA31DFE53C0E1F8A14976",
-                    "size": "59200338",
+                    "checksum": "SHA-256:38859E8387CE6CF20A6D968033757AC1C96C2144F84C433EB929243A85D08B67",
+                    "size": "59204885",
                     "boards": [
                         {
                             "name": "RECore"
