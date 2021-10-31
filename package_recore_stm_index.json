@@ -4,7 +4,7 @@
             "name": "RECore",
             "websiteURL": "https://omniment.co.jp",
             "maintainer": "OMNIMENT Inc.",
-            "email": "dummy",
+            "email": "",
             "help": {"online": "https://omniment.co.jp"},
             "platforms": [
                 {
